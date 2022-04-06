@@ -258,10 +258,10 @@ body {
   animation-fill-mode: both;
 }
 
-.picture-shadow,
 .picture-image {
   animation-duration: 750ms;
   animation-timing-function: cubic-bezier(0, 0.5, 0.25, 1.25);
+  animation-name: picImage;
 }
 
 
